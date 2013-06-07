@@ -2,10 +2,19 @@
 .color29,
 .color30,
 .color31 {
-	background:yello;
+	background:url("../img/sunshine-1.jpg") no-repeat;
+	
 }
 
 .color9,
 .color10, {
 	background:#CCC;
+}
+
+body {
+	background:#71A9E8;
+}
+
+h1 { 
+color:white;
 }
