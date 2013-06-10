@@ -3,7 +3,8 @@
 .color30,
 .color31 {
 	background:url("../img/sunshine-1.jpg") no-repeat;
-	
+	height:auto;
+	width:auto;
 }
 
 .color9,
@@ -13,8 +14,25 @@
 
 body {
 	background:#71A9E8;
+	margin: 80px;
 }
 
 h1 { 
 color:white;
+font-family:Myriad Pro, Helvetica, sans-serif;
+font-size:6em;
+margin: 50px auto;
 }
+
+li {
+	color:white;
+	list-style:none;
+	font-family:Myriad Pro, Helvetica, sans-serif;
+	font-size:6em;
+	margin: 80px;
+}
+
+.btn {
+	margin-bottom: 10px;
+}
+

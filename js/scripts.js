@@ -30,7 +30,7 @@ $(document).ready(function() {
 			html += '<img src="img/' + weather.code + '.png" />';
 			html += $('body').addClass('color' +weather.code);
 			html += '<li class="currently">'+weather.currently+'</li>';
-			html += '<li>'+weather.tempAlt+'&deg;C</li></ul>';
+			//html += '<li>'+weather.tempAlt+'&deg;C</li></ul>';
 			
 			// Write collection to page with html() method
 			// Note: difference between html() method vs. html option 
